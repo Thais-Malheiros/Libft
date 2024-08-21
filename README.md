@@ -1,7 +1,7 @@
 # Libft
 ## My very first own library
 
-![image](https://github.com/user-attachments/assets/f9670d4b-69bf-44ce-9477-f947eea513f4) ![image](https://github.com/user-attachments/assets/7ab7c60c-f171-4454-8032-92e674a074a6)
+![success 100](https://github.com/Thais-Malheiros/Libft/blob/main/success_100.png) ![gnl_icon](https://github.com/Thais-Malheiros/Libft/blob/main/libft.png)
 
 Libft is the first major project at 42 School, with the goal of building our first static library of functions in the C language.
 
